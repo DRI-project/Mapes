@@ -1,0 +1,22 @@
+name: oxenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - osmnx=1.8.1
+  - geopandas
+  - pandas
+  - matplotlib
+  - networkx
+  - folium
+  - branca
+  - fiona
+  - rtree
+  - shapely
+  - pyproj
+  - gdal
+  - libspatialindex
+  - pip
+  - pip:
+      - jupyter
