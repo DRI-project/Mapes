@@ -1,8 +1,12 @@
+requests
+numpy
 pandas
 geopandas
-matplotlib
+fiona
+shapely
 networkx
 osmnx
+scipy
+matplotlib
 folium
-fiona
-rtree
+branca
